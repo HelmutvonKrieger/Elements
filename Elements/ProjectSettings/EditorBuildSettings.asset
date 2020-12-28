@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0_New Level.unity
+    guid: af796156e0791d541b5dba57c50f5986
+  - enabled: 1
+    path: Assets/Scenes/1_Hydrogen.unity
+    guid: 5d2a16b78c0b2f84eaff57088e167884
+  - enabled: 1
+    path: Assets/Scenes/2_Helium.unity
+    guid: d9a1df493fd4053489ce06413a179d07
+  - enabled: 1
+    path: Assets/Scenes/3_Lithium.unity
+    guid: bc3f463873ccfdf4ca98aea4040fefea
+  - enabled: 1
+    path: Assets/Scenes/4_Beryllium.unity
+    guid: 18443a70597654a4688aff9ccdc71078
+  - enabled: 1
+    path: Assets/Scenes/0_End Game.unity
+    guid: 6f08418874435a8489ca90411e4cc23b
+  - enabled: 1
+    path: Assets/Scenes/0_Level Complete.unity
+    guid: deb0a35a34119fb4b9fe597144bb5d29
+  m_configObjects: {}
